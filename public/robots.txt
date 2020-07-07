@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /administration/
+Sitemap: https://onvataider.com/sitemap.xml

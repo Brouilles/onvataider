@@ -1,0 +1,10 @@
+{
+    "isDebug": true,
+    "public": {
+        "stripe": "pk_test_ajgZT6F1ep3xCIqqlJwogQGy"
+    },
+    "private": {
+        "uploadPath": "/Users/dezeiraud/Documents/Programming/NodeJS/onvataider/public/uploads/",
+        "stripe": "sk_test_CjDSqhGGY6DAJr3Y9TepXPCz"
+    }
+}

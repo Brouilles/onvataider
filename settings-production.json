@@ -1,0 +1,10 @@
+{
+    "isDebug": false,
+    "public": {
+        "stripe": "pk_test_7LsIJ5URl0TX02SEcVDvVSs3"
+    },
+    "private": {
+        "uploadPath": "/var/www/onvataider.com/uploads/",
+        "stripe": "sk_test_TyoDjlApyn1eNySwCtvq33Ia"
+    }
+}
